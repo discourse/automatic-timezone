@@ -1,13 +1,15 @@
 {
-  "name": "TODO",
+  "name": "Discourse Automatic Timezone",
   "component": true,
-  "authors": "Discourse",
-  "about_url": "TODO: Put your theme's public repo or Meta topic URL here",
-  "license_url": "TODO: Put your theme's LICENSE URL here",
-  "learn_more": "TODO",
+  "authors": "Chapoi",
+  "about_url": "",
+  "license_url": "",
+  "learn_more": "",
   "theme_version": "0.0.1",
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
-  "assets": {},
+  "assets": {
+    "user_custom_fields": ["manually_set_timezone", "last_detected_timezone"]
+  },
   "modifiers": {}
 }
