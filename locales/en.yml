@@ -1,5 +1,3 @@
 en:
   theme_metadata:
-    description: "TODO"
-    settings:
-      example_setting: "A description of a setting."
+    description: "Automatically sets the user's timezone based on the current browser timezone"
